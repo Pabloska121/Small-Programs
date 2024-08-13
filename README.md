@@ -19,14 +19,15 @@ Cada programa está en su propio directorio y puede incluir:
 2. **Navega al Directorio del Programa**
 
     *Accede al directorio del programa que quieres ejecutar:*
+   
     cd nombre_del_programa
    
-3. **Instala las Dependencias**
+4. **Instala las Dependencias**
 
     *Instala las dependencias necesarias:*
     pip install -r requirements.txt
 
-4. **Ejecuta el Programa**
+5. **Ejecuta el Programa**
 
     *Ejecuta el programa con Python:*
     python nombre_del_programa.py
