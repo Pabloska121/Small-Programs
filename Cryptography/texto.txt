@@ -1,2 +1,1 @@
-Hola como estas:
--1,2,3,4,5
+¡Aqui debe ir el texto que quieres encriptar!
