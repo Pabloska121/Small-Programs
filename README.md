@@ -1,36 +1,36 @@
-# Repositorio de Programas Divertidos y Prácticos
+# Repository of Fun and Practical Programs
 
-¡Bienvenido al repositorio de **Programas Divertidos y Prácticos**! Este repositorio contiene una colección de pequeños programas en Python diseñados para ayudarte a practicar tus habilidades de programación mientras te diviertes.
+Welcome to the **Fun and Practical Programs** repository! This repository contains a collection of small Python programs designed to help you practice your programming skills while having fun.
 
-## Contenido
+## Contents
 
-Cada programa está en su propio directorio y puede incluir:
+Each program is in its own directory and may include:
 
-- **Juegos:** Juegos simples y entretenidos.
-- **Ejercicios:** Ejercicios para practicar conceptos básicos de Python.
-- **Desafíos:** Problemas de codificación para mejorar tus habilidades.
+- **Game tools:** Simple and entertaining games.
+- **Exercises:** Exercises to practice basic Python concepts.
+- **Challenges:** Coding problems to improve your skills.
 
-## Cómo Empezar
+## Getting Started
 
-1. **Clona el Repositorio**
+1. **Clone the Repository**
    ```
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Pabloska121/Small-Programs.git
    ```
 2. **Navega al Directorio del Programa**
 
-    *Accede al directorio del programa que quieres ejecutar:*
+    *Access the directory of the program you want to run:*
     ```
-    cd nombre_del_programa
+    cd program_name
     ```
-3. **Instala las Dependencias**
+3. **Install Dependencies**
 
-    *Instala las dependencias necesarias:*
+    *Install the necessary dependencies:*
     ```
     pip install -r requirements.txt
     ```
-4. **Ejecuta el Programa**
+4. **Run the Program**
 
-    *Ejecuta el programa con Python:*
+    *Run the program with Python:*
     ```
     python nombre_del_programa.py
     ```
